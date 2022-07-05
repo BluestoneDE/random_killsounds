@@ -22,7 +22,7 @@ If there are any specific problems, please create an bug report on the [issues t
 # Optional
 You can play the same sounds **on hit** too.
 1. Enable ***Play a hit sound everytime you injure an enemy*** in the **Advanced Options**
-2. Select ***Percussion*** in the hitsound settings.
+2. Select ***Percussion*** as hit sound.
 
 If you have problems with the dropdown, you can use this command:
 ```cpp
