@@ -7689,6 +7689,16 @@
 		"wave"	")ui/killsound198.wav"
 		"wave"	")ui/killsound199.wav"
 		"wave"	")ui/killsound200.wav"
+		"wave"	")ui/killsound201.wav"
+		"wave"	")ui/killsound202.wav"
+		"wave"	")ui/killsound203.wav"
+		"wave"	")ui/killsound204.wav"
+		"wave"	")ui/killsound205.wav"
+		"wave"	")ui/killsound206.wav"
+		"wave"	")ui/killsound207.wav"
+		"wave"	")ui/killsound208.wav"
+		"wave"	")ui/killsound209.wav"
+		"wave"	")ui/killsound210.wav"
 	}
 }
 
@@ -7961,6 +7971,16 @@
 		"wave"	")ui/killsound198.wav"
 		"wave"	")ui/killsound199.wav"
 		"wave"	")ui/killsound200.wav"
+		"wave"	")ui/killsound201.wav"
+		"wave"	")ui/killsound202.wav"
+		"wave"	")ui/killsound203.wav"
+		"wave"	")ui/killsound204.wav"
+		"wave"	")ui/killsound205.wav"
+		"wave"	")ui/killsound206.wav"
+		"wave"	")ui/killsound207.wav"
+		"wave"	")ui/killsound208.wav"
+		"wave"	")ui/killsound209.wav"
+		"wave"	")ui/killsound210.wav"
 	}
 }
 
@@ -7969,7 +7989,8 @@
 	"channel"		"CHAN_STATIC"
 	"volume"	"0.700000"
 	"soundlevel"  	"SNDLVL_NONE"	
-	"pitch"			"PITCH_NORM"2
+	"pitch"			"PITCH_NORM"
+
 	"wave"	")ui/killsound_beepo.wav"
 }
 
@@ -7978,7 +7999,8 @@
 	"channel"		"CHAN_STATIC"
 	"volume"	"0.700000"
 	"soundlevel"  	"SNDLVL_NONE"	
-	"pitch"			"PITCH_NORM"3
+	"pitch"			"PITCH_NORM"
+
 	"wave"	")ui/killsound_electro.wav"
 }
 
@@ -7987,7 +8009,8 @@
 	"channel"		"CHAN_STATIC"
 	"volume"	"0.700000"
 	"soundlevel"  	"SNDLVL_NONE"	
-	"pitch"			"PITCH_NORM"4
+	"pitch"			"PITCH_NORM"
+
 	"wave"	"ui/killsound_note.wav"
 }
 
@@ -7996,7 +8019,8 @@
 	"channel"		"CHAN_STATIC"
 	"volume"	"0.700000"
 	"soundlevel"  	"SNDLVL_NONE"	
-	"pitch"			"PITCH_NORM"5
+	"pitch"			"PITCH_NORM"
+
 	"wave"	")ui/killsound_percussion.wav"
 }
 
@@ -8005,7 +8029,8 @@
 	"channel"		"CHAN_STATIC"
 	"volume"	"0.700000"
 	"soundlevel"  	"SNDLVL_NONE"	
-	"pitch"			"PITCH_NORM"6
+	"pitch"			"PITCH_NORM"
+
 	"wave"	")ui/killsound_retro.wav"
 }
 
@@ -8014,7 +8039,8 @@
 	"channel"		"CHAN_STATIC"
 	"volume"	"0.700000"
 	"soundlevel"  	"SNDLVL_NONE"	
-	"pitch"			"PITCH_NORM"7
+	"pitch"			"PITCH_NORM"
+
 	"wave"	")ui/killsound_space.wav"
 }
 
@@ -8023,7 +8049,8 @@
 	"channel"		"CHAN_STATIC"
 	"volume"	"0.700000"
 	"soundlevel"  	"SNDLVL_NONE"	
-	"pitch"			"PITCH_NORM"8
+	"pitch"			"PITCH_NORM"
+
 	"wave"	")ui/killsound_squasher.wav"
 }
 
@@ -8032,7 +8059,8 @@
 	"channel"		"CHAN_STATIC"
 	"volume"	"0.700000"
 	"soundlevel"  	"SNDLVL_NONE"	
-	"pitch"			"PITCH_NORM"9
+	"pitch"			"PITCH_NORM"
+
 	"wave"	")ui/killsound_vortex.wav"
 }
 
@@ -8042,7 +8070,7 @@
 
 
 "Weapon_BatSaber.Draw"
-{0
+{
 	"channel"	"CHAN_STATIC"
 	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"0.700000"
@@ -8052,7 +8080,7 @@
 "Weapon_BatSaber.Swing"
 {
 	"channel"	"CHAN_WEAPON"
-1	"soundlevel"	"SNDLVL_64dB"
+	"soundlevel"	"SNDLVL_64dB"
 	"volume"	"0.700000"
 	"pitch"			"96,100"
 	"rndwave"
@@ -8061,7 +8089,7 @@
 		"wave"		")weapons/batsaber_swing2.wav"
 		"wave"		")weapons/batsaber_swing3.wav"
 	}
-}2
+}
 
 "Weapon_BatSaber.SwingCrit"
 {
@@ -8070,7 +8098,7 @@
 	"volume"	"0.700000"
 	"pitch"			"96,100"
 	"rndwave"
-	{3
+	{
 		"wave"		")weapons/batsaber_swing_crit1.wav"
 		"wave"		")weapons/batsaber_swing_crit2.wav"
 		"wave"		")weapons/batsaber_swing_crit3.wav"
@@ -8080,7 +8108,7 @@
 "Weapon_BatSaber.HitFlesh"
 {
 	"channel"	"CHAN_STATIC"
-4	"soundlevel"	"SNDLVL_NORM"
+	"soundlevel"	"SNDLVL_NORM"
 	"volume"	"0.700000"
 	"pitch"			"96,100"
 	"rndwave"
@@ -8089,7 +8117,7 @@
 		"wave"		")weapons/batsaber_hit_flesh2.wav"
 	}
 
-}5
+}
 
 "Weapon_BatSaber.HitWorld"
 {
@@ -8098,7 +8126,7 @@
 	"volume"	"0.700000"
 	"pitch"			"96,100"
 	"rndwave"
-	{6
+	{
 		"wave"		")weapons/batsaber_hit_world1.wav"
 		"wave"		")weapons/batsaber_hit_world2.wav"
 	}
