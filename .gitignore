@@ -1,2 +1,3 @@
-
 *.cache
+sound/*
+!sound/ui
