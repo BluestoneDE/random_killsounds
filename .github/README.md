@@ -38,6 +38,6 @@ tf_dingalingaling_effect "3"
 ```
 
 <!-- LINKS -->
-[download-link]: https://github.com/BluestoneDE/random_killsounds/releases/latest/download/270_random_killsounds.vpk
+[download-link]: https://github.com/BluestoneDE/random_killsounds/releases/latest/download/300_random_killsounds.vpk
 [report]: https://github.com/BluestoneDE/random_killsounds/issues/new?template=bug_report.md
 [issues]: https://github.com/BluestoneDE/random_killsounds/issues
