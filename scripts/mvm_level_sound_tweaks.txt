@@ -173,7 +173,7 @@
 "Player.HitSoundPercussion"
 {
 	"channel"	"CHAN_STATIC"
-	"volume"	"0.700000"
+	"volume"	"0.500000"
 	"pitch"		"PITCH_NORM"
 	"soundlevel"	"SNDLVL_NONE"
 
@@ -597,7 +597,7 @@
 "Player.KillSoundDefaultDing"
 {
 	"channel"	"CHAN_STATIC"
-	"volume"	"0.700000"
+	"volume"	"0.500000"
 	"pitch"		"PITCH_NORM"
 	"soundlevel"	"SNDLVL_NONE"
 
