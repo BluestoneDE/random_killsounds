@@ -581,6 +581,16 @@
 		"wave"	"ui/killsound398.wav"
 		"wave"	"ui/killsound399.wav"
 		"wave"	"ui/killsound400.wav"
+		"wave"	"ui/killsound401.wav"
+		"wave"	"ui/killsound402.wav"
+		"wave"	"ui/killsound403.wav"
+		"wave"	"ui/killsound404.wav"
+		"wave"	"ui/killsound405.wav"
+		"wave"	"ui/killsound406.wav"
+		"wave"	"ui/killsound407.wav"
+		"wave"	"ui/killsound408.wav"
+		"wave"	"ui/killsound409.wav"
+		"wave"	"ui/killsound410.wav"
 	}
 }
 
@@ -995,5 +1005,15 @@
 		"wave"	"ui/killsound398.wav"
 		"wave"	"ui/killsound399.wav"
 		"wave"	"ui/killsound400.wav"
+		"wave"	"ui/killsound401.wav"
+		"wave"	"ui/killsound402.wav"
+		"wave"	"ui/killsound403.wav"
+		"wave"	"ui/killsound404.wav"
+		"wave"	"ui/killsound405.wav"
+		"wave"	"ui/killsound406.wav"
+		"wave"	"ui/killsound407.wav"
+		"wave"	"ui/killsound408.wav"
+		"wave"	"ui/killsound409.wav"
+		"wave"	"ui/killsound410.wav"
 	}
 }
