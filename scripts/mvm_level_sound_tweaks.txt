@@ -173,7 +173,7 @@
 "Player.HitSoundPercussion"
 {
 	"channel"	"CHAN_STATIC"
-	"volume"	"0.700000"
+	"volume"	"0.500000"
 	"pitch"		"PITCH_NORM"
 	"soundlevel"	"SNDLVL_NONE"
 
@@ -591,13 +591,23 @@
 		"wave"	"ui/killsound408.wav"
 		"wave"	"ui/killsound409.wav"
 		"wave"	"ui/killsound410.wav"
+		"wave"	"ui/killsound411.wav"
+		"wave"	"ui/killsound412.wav"
+		"wave"	"ui/killsound413.wav"
+		"wave"	"ui/killsound414.wav"
+		"wave"	"ui/killsound415.wav"
+		"wave"	"ui/killsound416.wav"
+		"wave"	"ui/killsound417.wav"
+		"wave"	"ui/killsound418.wav"
+		"wave"	"ui/killsound419.wav"
+		"wave"	"ui/killsound420.wav"
 	}
 }
 
 "Player.KillSoundDefaultDing"
 {
 	"channel"	"CHAN_STATIC"
-	"volume"	"0.700000"
+	"volume"	"0.500000"
 	"pitch"		"PITCH_NORM"
 	"soundlevel"	"SNDLVL_NONE"
 
@@ -1015,5 +1025,15 @@
 		"wave"	"ui/killsound408.wav"
 		"wave"	"ui/killsound409.wav"
 		"wave"	"ui/killsound410.wav"
+		"wave"	"ui/killsound411.wav"
+		"wave"	"ui/killsound412.wav"
+		"wave"	"ui/killsound413.wav"
+		"wave"	"ui/killsound414.wav"
+		"wave"	"ui/killsound415.wav"
+		"wave"	"ui/killsound416.wav"
+		"wave"	"ui/killsound417.wav"
+		"wave"	"ui/killsound418.wav"
+		"wave"	"ui/killsound419.wav"
+		"wave"	"ui/killsound420.wav"
 	}
 }
