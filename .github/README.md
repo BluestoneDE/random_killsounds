@@ -2,7 +2,7 @@
 <h2 align="center">a mod for Team Fortress 2 to play random sounds on kill</h2>
 <div align="center">
 
-[![Download](https://img.shields.io/github/downloads/BluestoneDE/random_killsounds/total.svg?style=for-the-badge&label=download&color=green&logo=DocuSign&logoColor=white)][download-link]
+[![Download](https://img.shields.io/github/downloads/BluestoneDE/random_killsounds/total.svg?style=for-the-badge&label=downloads&color=green&logo=DocuSign&logoColor=white)][download-link]
 [![Issues](https://img.shields.io/github/issues-raw/BluestoneDE/random_killsounds?color=orange&logo=windows%20terminal&style=for-the-badge)][issues]
 [![Creator](https://img.shields.io/github/followers/BluestoneDE?color=blue&label=_Bluestone_&logo=github&style=for-the-badge)](https://github.com/BluestoneDE)
 
@@ -49,6 +49,6 @@ tf_dingalingaling_effect "3"
 ```
 
 <!-- LINKS -->
-[download-link]: https://github.com/BluestoneDE/random_killsounds/releases/download/1.4.2/420_random_killsounds.vpk
+[download-link]: https://github.com/BluestoneDE/random_killsounds/releases/download/1.4.2/460_random_killsounds.vpk
 [report]: https://github.com/BluestoneDE/random_killsounds/issues/new?template=bug_report.md
 [issues]: https://github.com/BluestoneDE/random_killsounds/issues
