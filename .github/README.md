@@ -1,18 +1,20 @@
-<!-- TITLE -->
 <h2 align="center">a mod for Team Fortress 2 to play random sounds on kill</h2>
 <div align="center">
+<p>compatible with <a href="https://tf2classic.com">TF2 Classic</a> and <a href="https://openfortress.fun">Open Fortress</a></p>
 
 [![Download](https://img.shields.io/github/downloads/BluestoneDE/random_killsounds/total.svg?style=for-the-badge&label=downloads&color=green&logo=DocuSign&logoColor=white)][download-link]
 [![Issues](https://img.shields.io/github/issues-raw/BluestoneDE/random_killsounds?color=orange&logo=windows%20terminal&style=for-the-badge)][issues]
 [![Creator](https://img.shields.io/github/followers/BluestoneDE?color=blue&label=_Bluestone_&logo=github&style=for-the-badge)](https://github.com/BluestoneDE)
 
 [![banner](https://repository-images.githubusercontent.com/506568989/4796ff15-63af-4aed-aa8f-892696eb2328)][download-link]
-
 </div>
 
 # Installation
 1. Download the latest version of the mod [here on GitHub][download-link].
 2. Move the downloaded .vpk file into your `steamapps\common\Team Fortress 2\tf\custom` directory.
+
+   - For TF2 Classic the directory path is `steamapps\sourcemods\tf2classic\custom`
+   - For Open Fortress the directory path is `steamapps\sourcemods\open_fortress\custom`
 3. Enable ***Play a last hit sound when one of your attacks kills an enemy*** in the **Advanced Options**.
 4. Select ***Default*** as the last hit sound.
 
