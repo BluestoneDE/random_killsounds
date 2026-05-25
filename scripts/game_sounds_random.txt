@@ -8,8 +8,6 @@
 	"rndwave"
 	{
 		"wave"	"ui/killsound1.wav"
-		"wave"	"ui/killsound1.wav"
-		"wave"	"ui/killsound1.wav"
 		"wave"	"ui/killsound2.wav"
 		"wave"	"ui/killsound3.wav"
 		"wave"	"ui/killsound4.wav"
@@ -521,8 +519,6 @@
 
 	"rndwave"
 	{
-		"wave"	"ui/killsound1.wav"
-		"wave"	"ui/killsound1.wav"
 		"wave"	"ui/killsound1.wav"
 		"wave"	"ui/killsound2.wav"
 		"wave"	"ui/killsound3.wav"
