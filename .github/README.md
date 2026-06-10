@@ -1,6 +1,6 @@
 <h2 align="center">a mod for Team Fortress 2 to play random sounds on kill</h2>
 <div align="center">
-<p>compatible with <a href="https://tf2classic.com">TF2 Classic</a> and <a href="https://openfortress.fun">Open Fortress</a> and <a href="https://tf2goldrush.com">TF2 Gold Rush</a></p>
+<p>compatible with <a href="https://tf2classified.com/">TF2 Classified</a> and <a href="https://openfortress.fun">Open Fortress</a> and <a href="https://tf2goldrush.com">TF2 Gold Rush</a></p>
 
 [![Download](https://img.shields.io/github/downloads/BluestoneDE/random_killsounds/total.svg?style=for-the-badge&label=downloads&color=green&logo=DocuSign&logoColor=white)][download-link]
 [![Issues](https://img.shields.io/github/issues-raw/BluestoneDE/random_killsounds?color=orange&logo=windows%20terminal&style=for-the-badge)][issues]
@@ -27,13 +27,9 @@ First you should try resetting all sounds with this console command:
 ```cpp
 snd_restart
 ```
-Killsounds might be **disabled by default**. So use this console command to enable them:
+Killsounds might be **disabled by default**. This console command enables them (hitsounds included):
 ```cpp
-tf_dingalingaling_lasthit 1; tf_dingaling_lasthit_volume 1
-```
-Here's the same command but for sounds **on hit**:
-```cpp
-tf_dingalingaling 1; tf_dingaling_volume 0.75
+tf_dingalingaling_lasthit 1; tf_dingaling_lasthit_volume 1; tf_dingalingaling 1; tf_dingaling_volume 0.75
 ```
 If there are any specific problems, please create a [bug report][report] on the [issues tab][issues].
 
@@ -59,6 +55,6 @@ tf_dingalingaling_effect "3"
 ```
 
 <!-- LINKS -->
-[download-link]: https://github.com/BluestoneDE/random_killsounds/releases/download/1.5.0/500_random_killsounds.vpk
+[download-link]: https://github.com/BluestoneDE/random_killsounds/releases/download/1.5.1/550_random_killsounds.vpk
 [report]: https://github.com/BluestoneDE/random_killsounds/issues/new?template=bug_report.md
 [issues]: https://github.com/BluestoneDE/random_killsounds/issues
