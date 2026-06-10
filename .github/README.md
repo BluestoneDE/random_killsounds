@@ -6,7 +6,7 @@
 [![Issues](https://img.shields.io/github/issues-raw/BluestoneDE/random_killsounds?color=orange&logo=windows%20terminal&style=for-the-badge)][issues]
 [![Creator](https://img.shields.io/github/followers/BluestoneDE?color=blue&label=_Bluestone_&logo=github&style=for-the-badge)](https://github.com/BluestoneDE)
 
-[![banner](https://repository-images.githubusercontent.com/506568989/4796ff15-63af-4aed-aa8f-892696eb2328)][download-link]
+[![banner](https://repository-images.githubusercontent.com/506568989/0fef9dc0-86f5-41cd-a7f0-43b39f7d038b)][download-link]
 </div>
 
 # Installation
