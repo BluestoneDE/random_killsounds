@@ -27,15 +27,15 @@ First you should try resetting all sounds with this console command:
 ```cpp
 snd_restart
 ```
-Killsounds might be **disabled by default**. This console command enables them (hitsounds included):
+Killsounds might be **disabled by default**. This console command enables them:
 ```cpp
-tf_dingalingaling_lasthit 1; tf_dingaling_lasthit_volume 1; tf_dingalingaling 1; tf_dingaling_volume 0.75
+tf_dingalingaling_lasthit 1; tf_dingaling_lasthit_volume 1
 ```
 If there are any specific problems, please create a [bug report][report] on the [issues tab][issues].
 
-# Optional
+# Configuration
 ## **normal pitch**
-It is recommended but totally optional to play these sounds at their **normal pitch**. For this you can either go in the **Advanced Options** again or use the console command below instead for more precision:
+It is recommended but totally optional to play these sounds at their **normal pitch**. For this you can either go in the **Advanced Options** again or use the console command below for more precision:
 ```cpp
 tf_dingaling_lasthit_pitchmindmg 100; tf_dingaling_lasthit_pitchmaxdmg 100
 ```
@@ -45,13 +45,13 @@ tf_dingaling_pitchmindmg 100; tf_dingaling_pitchmaxdmg 100
 ```
 
 ## **play on hit**
-If you're up for it, you can play the same sounds **on hit** too, but be warned!
+If you're up for it, you can play the same sounds **on hit** too, but be warned! 🔊
 1. Enable ***Play a hit sound everytime you injure an enemy*** in the **Advanced Options**
 2. Select ***Percussion*** as hit sound.
 
-If you have problems with the dropdown, you can use this console command:
+If you have problems with the menu, you can use this console command:
 ```cpp
-tf_dingalingaling_effect "3"
+tf_dingalingaling 1; tf_dingaling_volume 0.75; tf_dingalingaling_effect "3"
 ```
 
 <!-- LINKS -->
