@@ -13,8 +13,11 @@
 1. Download the latest version of the mod [here on GitHub][download-link].
 2. Move the downloaded .vpk file into your `steamapps\common\Team Fortress 2\tf\custom` directory.
 
-   - For TF2 Classic the directory path is `steamapps\sourcemods\tf2classic\custom`
+   - For TF2 Classified the directory path is `steamapps\common\Team Fortress 2 Classified\tf2classified\custom`
    - For Open Fortress the directory path is `steamapps\sourcemods\open_fortress\custom`
+   - For TF2 Gold Rush the directory path is `steamapps\common\Team Fortress 2 Gold Rush\tf_goldrush\custom`
+
+   Please note that some mods don't come with a `custom` directory on the initial install. You will have to create it yourself.
 3. Enable ***Play a last hit sound when one of your attacks kills an enemy*** in the **Advanced Options**.
 4. Select ***Default*** as the last hit sound.
 
